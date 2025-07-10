@@ -25,8 +25,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently looking for a   
   
 
 - 🌱 I’m currently learning Python and DevOps  
